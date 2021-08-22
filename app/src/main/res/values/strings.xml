@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConverterTemp</string>
+    <string name="calculate">Calculate</string>
+    <string name="user_input">Userinput</string>
+    <string name="reset">Reset</string>
+    <string name="enter_celsius">Enter Celsius</string>
+    <string name="enter_fahrenheit">Enter Fahrenheit</string>
+    <string name="todo">TODO</string>
+</resources>
